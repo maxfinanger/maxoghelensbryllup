@@ -9,6 +9,14 @@ const HomePage = () => {
                     <p className="text-2xl text-primary">10. juli 2027</p>
                 </div>
 
+                <div className="relative w-full aspect-[16/10] rounded-lg overflow-hidden">
+                    <img
+                        src="https://maxfinanger.github.io/maxoghelenesbryllup/images/forside.jpeg"
+                        alt="Max og Helene"
+                        className="w-full h-full object-cover"
+                    />
+                </div>
+
                 <div className="space-y-8 text-lg text-muted-foreground leading-relaxed">
                     <p>
                         Vi gifter oss i Fagerborg kirke kl. 14:30, og feirer
