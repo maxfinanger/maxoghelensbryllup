@@ -20,5 +20,6 @@ export function RoutingMain() {
             <Route path="/om-oss" element={<AboutUsPage />} />
             <Route path="/ønskeliste" element={<WishesPage />} />
         </Routes>
+        
     );
 }
