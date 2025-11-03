@@ -11,7 +11,7 @@ const HomePage = () => {
 
                 <div className="relative w-full aspect-[16/10] rounded-lg overflow-hidden">
                     <img
-                        src="https://maxfinanger.github.io/maxoghelenesbryllup/images/forside.jpeg"
+                        src="https://maxfinanger.github.io/maxoghelenesbryllup/images/forside-bilde.jpeg"
                         alt="Max og Helene"
                         className="w-full h-full object-cover"
                     />

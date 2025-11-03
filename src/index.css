@@ -5,6 +5,7 @@
 }
 
 body {
+    width: 100%;
     min-height: 100vh;
     font-family: "Cormorant Garamond", serif;
     -webkit-font-smoothing: antialiased;
@@ -13,4 +14,5 @@ body {
 
 #root {
     min-height: 100vh;
+    width: 100%;
 }
