@@ -7,6 +7,7 @@ const PlanPage = () => {
 
             <div className="max-w-2xl mx-auto space-y-20 text-lg text-muted-foreground leading-relaxed">
                 <div className="text-center">
+                    <br />
                     <h2 className="text-2xl font-medium text-foreground mb-4">
                         Vielsen
                     </h2>
@@ -19,6 +20,7 @@ const PlanPage = () => {
                         Lørdag 10. juli 2027 kl. 14:30
                     </p>
                 </div>
+                <br />
 
                 <div className="text-center">
                     <h2 className="text-2xl font-medium text-foreground mb-4">
