@@ -5,7 +5,7 @@ import { RoutingMain } from "./routing/RoutingMain";
 
 function App() {
     return (
-        <Router>
+        <Router basename="/maxoghelenesbryllup/">
             <div className="App bg-[#ffffff]">
                 <Header />
                 <main className="m-0 p-0">
