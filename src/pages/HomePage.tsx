@@ -21,7 +21,7 @@ const HomePage = () => {
                     </p>
                 </div>
 
-                <div className="bg-secondary/20 rounded-lg p-10 text-base">
+                <div className="bg-secondary/20 rounded-lg p-10 text-base text-center">
                     <p className="mb-3">
                         <strong>Vielsen:</strong> Fagerborg kirke, kl. 14:30
                     </p>

@@ -17,8 +17,8 @@ export function Header() {
     return (
         <>
             <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur-sm border-b border-border/40">
-                <nav className="container mx-auto flex items-center justify-between py-6 px-6">
-                    <div className="hidden md:flex items-center gap-12 mx-auto">
+                <nav className="container mx-auto flex items-center justify-center py-6 px-6">
+                    <div className="hidden md:flex items-center gap-12">
                         {navLinks.map((link) => (
                             <Link
                                 key={link.to}
@@ -30,7 +30,7 @@ export function Header() {
                         ))}
                     </div>
 
-                    <div className="md:hidden ml-auto">
+                    <div className="md:hidden absolute right-6">
                         <button
                             onClick={() => setIsOpen(!isOpen)}
                             className="p-2 hover:bg-gray-100 rounded-md transition-colors"
