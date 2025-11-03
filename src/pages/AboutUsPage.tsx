@@ -10,7 +10,7 @@ export default function AboutUsPage() {
                     <div className="mb-12">
                         <div className="relative w-full aspect-[16/10] rounded-lg overflow-hidden">
                             <img
-                                src="/images/max-og-helene.jpg"
+                                src="https://maxfinanger.github.io/maxoghelenesbryllup/images/max-og-helene.jpeg"
                                 alt="Max og Helene"
                                 className="w-full h-full object-cover"
                             />
